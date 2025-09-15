@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>public/FramelessWindow.qml</file>
+        <file>public/CircleButton.qml</file>
+        <file>public/Region.qml</file>
+        <file>Theme.js</file>
+    </qresource>
+</RCC>
